@@ -1,0 +1,21 @@
+CT 001 
+Ao criar e-mail sistema não exibe nenhuma mensagem ou alerta de que usuário foi criado com sucesso apenas muda o botão de 'Criar conta' apenas muda o nome do botão de 'Criar conta' para 'Acessar'.
+
+CT 005
+Na documentação está descrito para realizar o cadastro de clientes com sucesso na aba 'Perfil', porém, na home do sistema a descrição específica não é esta e sim 'Cadastrar Cliente'.
+Outro ponto, é que ao incluir um novo cliente não é exibido mensagem de "inclusão efetuada com sucesso", por exemplo.
+
+CT 007
+Editando qualquer cliente apenas pelo número te celular, foi possível identificar que o sistema não exibe nenhuma mensagem de atualização do cadastro.
+
+CT 011
+Cenário esta errado, pois cita primeiramente para realizar o download do XML que é independente do que é preenchido nos campos da aba "Fiscal"
+
+CT 013
+Cenário está errado, pois cita para validar o preenchimento de informações do candidato, mas, na home do sistema não existe nenhum campo com tal nome.
+OBS: Ao clicar em 'Finalizar' e depois selecionar o botão 'Enviar' sistema carrega modal de 'Informações do Candidato', porém, o botão fechar esta mal disposto na tela.
+
+CT 014
+Sistema não possui opção para recuperar senha de acesso.
+
+

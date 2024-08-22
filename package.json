@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cy-verify-downloads": "^0.2.5",
+    "cypress": "^13.13.3",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.2"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  }
+}
