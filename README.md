@@ -21,7 +21,7 @@ o XML, que é independente do que é preenchido nos campos da aba "Fiscal".
 API
 ---
 
-A API utilizada para os testes está disponível em https://api-challenge.primecontrol.com.br/. 
+A API utilizada para os testes está disponível em neste link[https://api-challenge.primecontrol.com.br/]. 
 A documentação da API pode ser encontrada em https://documenter.getpostman.com/view/30055199/2sAXjDdF3m#intro.
 
 Próximos Passos
