@@ -18,10 +18,11 @@ o XML, que é independente do que é preenchido nos campos da aba "Fiscal".
 -   CT 013: O cenário está errado, pois cita para validar o preenchimento de informações do candidato, mas na home do sistema não existe nenhum campo com tal nome. Além disso, ao clicar em "Finalizar" e depois selecionar o botão "Enviar", o sistema carrega um modal de "Informações do Candidato", mas o botão "Fechar" está mal disposto na tela.
 -   CT 014: O sistema não possui opção para recuperar senha de acesso.
 
-API
+API's
 ---
 
 A API utilizada para os testes está disponível em neste [link](https://api-challenge.primecontrol.com.br/). 
+
 A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/30055199/2sAXjDdF3m#intro).
 
 Próximos Passos
