@@ -52,6 +52,10 @@ Para executar os scripts de teste, siga os passos abaixo:
    - No modo interativo, você verá os testes sendo executados na interface gráfica do Cypress.
    - No modo de linha de comando, os resultados dos testes serão exibidos diretamente no terminal.
 
+5. **Cada conclusão de testes é gerado uma evidência**:
+   - A cada execução do teste, ao final, é gerado uma evidência pelo Cypress para assim certificar de que o comportamento é o esperado, afim de garantir a qualidade do teste.
+
+   
 ## Próximos Passos
 
 - Corrigir as observações encontradas durante os testes.
