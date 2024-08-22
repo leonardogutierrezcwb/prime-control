@@ -1,7 +1,7 @@
  Desafio Prime Control
 ===================================
 
-Este repositório contém um script de testes para o desafio proposto pela Prime Control, disponível neste [endereço](https://challenge.primecontrol.com.br/]).
+Este repositório contém script de testes para o desafio proposto pela Prime Control, para a vaga de Analista de Qualidade de Software (QA).
 
 Versão 1
 --------
