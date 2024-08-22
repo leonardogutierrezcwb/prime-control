@@ -1,7 +1,7 @@
 
 # Desafio Prime Control
 
-Este repositório contém script de testes para o desafio proposto pela Prime Control, para a vaga de Analista de Qualidade de Software (QA). Os testes foram desenvolvidos e executados utilizando **Cypress**, uma ferramenta de testes end-to-end moderna e poderosa.
+Este repositório contém script de testes para o desafio proposto pela Prime Control, para a vaga de Analista de Qualidade de Software (QA).
 
 ## Versão 1
 
