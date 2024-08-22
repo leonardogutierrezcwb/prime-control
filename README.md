@@ -1,7 +1,7 @@
  Desafio Prime Control
 ===================================
 
-Este repositório contém um script de testes para o desafio proposto pela Prime Control, disponível em https://challenge.primecontrol.com.br/.
+Este repositório contém um script de testes para o desafio proposto pela Prime Control, disponível neste (endereço)[https://challenge.primecontrol.com.br/].
 
 Versão 1
 --------
@@ -21,8 +21,8 @@ o XML, que é independente do que é preenchido nos campos da aba "Fiscal".
 API
 ---
 
-A API utilizada para os testes está disponível em neste link[https://api-challenge.primecontrol.com.br/]. 
-A documentação da API pode ser encontrada em https://documenter.getpostman.com/view/30055199/2sAXjDdF3m#intro.
+A API utilizada para os testes está disponível em neste [link](https://api-challenge.primecontrol.com.br/). 
+A documentação da API pode ser encontrada [aqui]https://documenter.getpostman.com/view/30055199/2sAXjDdF3m#intro.]
 
 Próximos Passos
 ---------------
